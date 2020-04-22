@@ -1,6 +1,6 @@
-=====================================================================
-Guia para practicar con repositorios remotos sin miedo a romper nada:
-=====================================================================
+====================================================================
+Guia para practicar con repositorios remotos sin miedo a romper nada
+====================================================================
 
 1. Crear carpetas
 =================
@@ -51,16 +51,3 @@ Clonamos el repositorio del server en cada cliente
 ===========================
 Continuar trabajando alternativamente en cada **client** creando previamente un branch para cada tarea específica,
 dividiendo cada tarea en commits acotados para aplicar cada cambio.
-
-Tips para los commits:
-======================
-* Diferenciar los cambios que voy a aplicar:
-	* Los cambios implican una tarea que requiere planificación en varios pasos:
-			dividir cada paso en commits
-	* Los cambios implican una actividad relativamente extensa pero repetitiva, por ejemplo escribir la misma palabra cincuenta veces.
-			hacer un solo commit
-* Una forma de diferenciar qué tipo de cambios son los que voy a aplicar, en ambos casos, es escribir los mensajes de los commits antes de ejecutar las tareas:
-	* El mensaje es una oración simple (sujeto, predicado y algún modificador) representa un commit.
-	* La oración tiene sólo un verbo pero repite mucho la palabra y en el sujeto o en un modificador (y esto, y lo otro, etc.) dividir en más commits.
-	* La oración se va a repetir en varios commits, unir esos commits en uno.
-* El objetivo es que cuando me encuentre en una situación donde las cosas no salen como esperaba o no encuentro parte del trabajo, puedo buscar a traves de los commits como estaba todo en determinado punto e identificar el problema.
