@@ -2,8 +2,8 @@
 Tips para los commits
 =====================
 
-* Empezar por el mensaje
-========================
+Empezar por el mensaje
+======================
 En lugar de considerar al **commit** como un corte, como un guardado para evitar perder cosas, pienso en el **commit**
 como una unidad de trabajo con un **objetivo**. Ese **objetivo** lo voy a expresar en el **mensaje**, y voy a escribir
 (o al menos pensar) ese mensaje antes de efectuar las modificaciones (por ejemplo, escribir una función en Python).
@@ -23,8 +23,8 @@ Una vez pensado ese mensaje, empezamos a trabajar en la tarea. Puede ser que el 
 en ese mensaje, no importa, lo importante es el enfoque: pensar el objetivo y al logralo confirmar los cambios con el
 commit.
 
-* Analizar el mensaje del commit
-================================
+Analizar el mensaje del commit
+==============================
 * El mensaje es una oración simple:
     Eso es un **commit**.
 
@@ -53,5 +53,3 @@ commit.
 
 Ejemplos
 ========
-
-...
