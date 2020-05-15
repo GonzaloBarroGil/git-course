@@ -1,14 +1,14 @@
 # Capacitación en Git
 
-![](./logo.jpeg)
+![](./docs/logo.jpeg)
 
 ## ¡Bienvenidos!
-### Pueden consultar la guía del curso [acá](./index.md) 
+### Pueden consultar la guía del curso [acá](./docs/index.md) 
 
 ## Prácticas
-* [Local Remotes](./LocalRemotes.rst)
-* [Branches remotos](./remotes-rebasing.md)
-* [Consejos para commitear](./CommitTips.rst)
+* [Local Remotes](./docs/LocalRemotes.rst)
+* [Branches remotos](./docs/remotes-rebasing.md)
+* [Consejos para commitear](./docs/CommitTips.rst)
 
 ## Descargar presentaciones en [slides](./slides)
 
